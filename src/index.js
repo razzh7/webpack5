@@ -9,6 +9,6 @@ function component() {
 
   return element;
 }
-console.log(a)
+// console.log(a)
 
 document.body.appendChild(component());
